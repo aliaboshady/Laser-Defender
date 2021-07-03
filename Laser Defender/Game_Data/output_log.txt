@@ -1,0 +1,52 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 3070 Laptop GPU (ID=0x24dd)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   27.20.14028.13002
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Ali\Unity Projects\Unity Games To Send\Laser Defender\Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Ali\Unity Projects\Unity Games To Send\Laser Defender\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Ali\Unity Projects\Unity Games To Send\Laser Defender\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Ali\Unity Projects\Unity Games To Send\Laser Defender\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Ali\Unity Projects\Unity Games To Send\Laser Defender\Game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Ali\Unity Projects\Unity Games To Send\Laser Defender\Game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Ali\Unity Projects\Unity Games To Send\Laser Defender\Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Ali\Unity Projects\Unity Games To Send\Laser Defender\Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Ali\Unity Projects\Unity Games To Send\Laser Defender\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Ali\Unity Projects\Unity Games To Send\Laser Defender\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.038 seconds
+Platform assembly: C:\Ali\Unity Projects\Unity Games To Send\Laser Defender\Game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Ali\Unity Projects\Unity Games To Send\Laser Defender\Game_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 165Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.270700 ms
+New Level load: Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.602600 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 379.
+Total: 0.334700 ms (FindLiveObjects: 0.020100 ms CreateObjectMapping: 0.027900 ms MarkObjects: 0.252600 ms  DeleteObjects: 0.033400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.438000 ms
+
+Unloading 70 unused Assets to reduce memory usage. Loaded Objects now: 274.
+Total: 0.808300 ms (FindLiveObjects: 0.052100 ms CreateObjectMapping: 0.023200 ms MarkObjects: 0.165600 ms  DeleteObjects: 0.566600 ms)
+
+Quit requested
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 118 -> priority: 1 
+  Thread -> id: 6f5c -> priority: 1 
+  Thread -> id: 3008 -> priority: 1 
+  Thread -> id: 58f0 -> priority: 1 
